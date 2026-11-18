@@ -1,4 +1,4 @@
-# 3D Yılan v1.23.0 — GitHub Pages'e hazır PWA
+# 3D Yılan v1.24.0 — GitHub Pages'e hazır PWA
 
 ## En kolay yayınlama: derlenmiş dosyalar
 
