@@ -1,0 +1,12 @@
+3D YILAN v1.35.0 — v1.26.1'DEN GÜNCELLEME
+
+Bu paket önceki ara sürümleri de içeren tam güncel sitedir. Tek tek ara sürümleri kurmanız gerekmez.
+
+GitHub deponuzda v1.26.1 zaten düzgün çalışıyorsa:
+1. ZIP'i telefonunuza indirin ve çıkarın.
+2. ZIP'ten çıkan index.html ve sw.js dosyalarını GitHub deponuzun ana dizinine yükleyin ve aynı isimli eski dosyaların üzerine yazın. Commit changes ile onaylayın.
+3. Mevcut icons klasörüne ve manifest.webmanifest dosyasına dokunmayın; bu sürümde değişmediler.
+4. GitHub Pages yayınının tamamlanmasını bekleyin. İnternet açıkken siteyi açıp yenileyin; uygulama ana ekrana yüklüyse tamamen kapatıp yeniden açın. Menü altında v1.35.0 göründüğünü kontrol edin.
+
+Yeni ya da eksik bir depo için README.md dosyasındaki tam kurulum adımlarını izleyin; o durumda manifest.webmanifest ve icons klasörü gereklidir.
+Mevcut skor/ayarlar aynı adres ve tarayıcıda normalde korunur; site verilerini temizlemek bunları silebilir.
