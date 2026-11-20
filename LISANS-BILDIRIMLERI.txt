@@ -1,5 +1,5 @@
 3D Yılan — Üçüncü Taraf Lisans Bildirimleri
-Sürüm: 1.26.1
+Sürüm: 1.35.0
 
 Bu bildirimler paketlerin mevcut kurulumundaki lisans dosyalarından ve package-lock.json kayıtlarından hazırlanmıştır. Sadece üçüncü taraf bileşenleri kapsar; oyunun kendisine veya kullanıcı tarafından sağlanan menü görseline lisans vermez. Bildirimleri oyunla birlikte dağıtın.
 
