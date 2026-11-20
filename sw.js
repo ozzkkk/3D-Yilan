@@ -1,5 +1,5 @@
 /* 3D Yılan service worker. Cache names are isolated per installed URL scope. */
-const VERSION = '1.38.1';
+const VERSION = '1.38.2';
 const SCOPE = self.registration.scope;
 const PREFIX = `3d-yilan:${SCOPE}:`;
 const CACHE = PREFIX + VERSION;
